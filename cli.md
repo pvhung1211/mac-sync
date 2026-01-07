@@ -1,0 +1,10 @@
+- `Powerlevel10k` - Zsh theme
+- `Meslo Nerd Font` - Required font for icons
+- `zsh-syntax-highlighting` - Syntax highlighting
+- `zsh-autosuggestions` - Command suggestions
+- `fzf-tab` - Tab completion with fzf
+- `docker` - Docker completions (built-in)
+- `git` - Git aliases (built-in)
+- `z` - Directory jumper (built-in)
+- `fzf` - Fuzzy finder
+- `mise` - Runtime version manager
