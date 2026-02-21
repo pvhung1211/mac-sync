@@ -7,4 +7,5 @@
 - `git` - Git aliases (built-in)
 - `z` - Directory jumper (built-in)
 - `fzf` - Fuzzy finder
+- `zsh-shift-select` - Select text in the command line using Shift as in many text editors 
 - `mise` - Runtime version manager

@@ -1,0 +1,8 @@
+- Quick tuts: https://www.youtube.com/watch?v=AXce_yexL0o
+- Add obsidian
+- Add Google Calendar
+- Add quicklinks
+  - https://chatgpt.com/?temporary-chat=true&prompt=hello
+  - https://www.youtube.com/results?search_query={argument}
+  - https://mail.google.com/mail
+  - https://google.com/search?q={argument}
